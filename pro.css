@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+.parent{
+    display:flex;
+      justify-content:space-between;
+      align-items:center;
+      padding:80px}
+
+.vebbox{                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+    width: 55%;
+}
+
+.vebbox h1{
+    font-size:60px;
+    color: black;
+    margin-bottom:20px;
+}
+
+.vebbox h2{
+    font: size 25px;
+    color:gray;
+    margin-bottom: 30px ;
+}
+
+.btn{
+    background-color: white;
+    color: blue;
+    padding: 10px 20px;
+}
+
+.btn:hover{
+    background-color: blue;
+    color: white;}
+.image{
+    width:50%;
+}
+
+.image img{
+    width:100%;
+}
